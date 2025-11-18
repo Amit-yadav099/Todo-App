@@ -4,6 +4,8 @@ import dotenv from 'dotenv';
 import connectDB from './config/database'; 
 import { errorHandler } from './middleware/errorHandler';
 
+import auth from './routes/auth';
+import todos from './routes/todos';
 
 dotenv.config();
 connectDB();
@@ -12,6 +14,8 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
+app.use('/api/v1/auth', auth);
+app.use('/api/v1/todos', todos);
 
 app.use(errorHandler);
 
