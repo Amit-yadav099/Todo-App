@@ -4,19 +4,6 @@
 <img width="1470" alt="Dashboard" src="./frontend/public/dashboard.png">
 <br />
 
-  <div>
-   <img alt='Next.js'src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img alt='Supabase' src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-<img alt='Tailwind CSS' src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'>
-<img alt='Prisma' src='https://img.shields.io/badge/Prisma-blue?style=for-the-badge&logo=prisma&logoColor=white'>
-<img alt='Inngest' src='https://img.shields.io/badge/Inngest-beige?style=for-the-badge&logo=inngest&logoColor=white'>
-<img alt='ArcJet' src='https://img.shields.io/badge/ArcJet-yellow?style=for-the-badge&logo=arcjet&logoColor=white'>
-<img alt='Shadcn UI' src='https://img.shields.io/badge/shadcn/ui-pink?style=for-the-badge&logo=shadcnui&logoColor=white'>
-  </div>
-
-
-
-
 </div>
 
 
@@ -147,5 +134,3 @@ todoapp/
 ## <a name="Contribtuing">📌 Contributing</a>
 
 Feel free to fork the repo, open issues, or submit PRs. Contributions are welcome!
-
-
